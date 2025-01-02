@@ -1,4 +1,5 @@
 # Todo
+* Fix metadata YAML in [[praxis]]
 * Add metadata to existing pages
 * Decide what to write in [[readme]]
 * Add content to [[readme]]
