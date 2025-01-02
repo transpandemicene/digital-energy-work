@@ -28,6 +28,7 @@ tags: resources
 - [Liberatory Technology and Digital Marronage Github](https://github.com/kenia-hale/Liberatory-Technology-Digital-Marronage) 
 - [Digital Spaces Directory](https://newpublic.org/study/3375/digital-spaces-directory)
 - [code.org short educational videos](https://code.org/educate/resources/videos)
+- [Project Trans](https://github.com/project-trans)
 ## Blogs, Essays, Presentations, Media
 - [Introduction: # TravelingWhileTrans, Design Justice, and Escape from the Matrix of Domination](https://designjustice.mitpress.mit.edu/pub/ap8rgw5e/release/1)
 - [The Good Web: Competing Visions for the Future of Social Media](https://mediacentral.princeton.edu/media/CITP+SeminarA++Ethan+ZuckermanA+The+Good+WebA+Competing+Visions+for+the+Future+of+Social+Media/1_g52q7iua/151062771)
