@@ -1,6 +1,7 @@
 # Todo
 * (A) Add license to repo!
-* Fix metadata YAML in [[praxis]]
+* x Fix metadata YAML in [[praxis]] {cm:2025-01-03}
+* figure out why [!Important] admonition in [[praxis]] won't render properly on github. com
 * Add metadata to existing pages
 * Decide what else to write in [[readme]]
 * x Add content to [[readme]] {cm:2025-01-02}
