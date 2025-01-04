@@ -1,8 +1,5 @@
 ---
-title: Principles
-page-version: 0.01.0
-originally-published: [[2025_01_01]]
-author: [zel](transpandemicene/zel)
+title: Praxis
 tags: praxis
 ---
 
@@ -17,6 +14,7 @@ At it's simplest, a praxis is a **marriage of theory and practice:**
 To help me gain clarity, I came up with simple definitions *for myself*. They are deliberately oversimplified! This simplicity helps me when I am struggling to understand what kind of decision i want to make when i encounter tension in my privacy journey; others may see things differently or choose words like *ethics* or *morals*.
 
 <br></br>
+
 > [!IMPORTANT]  What's in a Praxis?
 > * **Values**: what i believe is true, right, and good; what drives my principles
 > * **Principles**: how i want to behave to align with my values
