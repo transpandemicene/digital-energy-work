@@ -13,14 +13,13 @@ At it's simplest, a praxis is a **marriage of theory and practice:**
 ## Loose Definitions
 To help me gain clarity, I came up with simple definitions *for myself*. They are deliberately oversimplified! This simplicity helps me when I am struggling to understand what kind of decision i want to make when i encounter tension in my privacy journey; others may see things differently or choose words like *ethics* or *morals*.
 
-<br></br>
-
+---
 > [!IMPORTANT]  What's in a Praxis?
 > * **Values**: what i believe is true, right, and good; what drives my principles
 > * **Principles**: how i want to behave to align with my values
 > * **Strategies**: the pathway that allows me to firmly choose my principles by connecting the dots between methods and values
-> * **Methods**: specific actions that initialize and sustain my strategies and beneficially for my principles
-
+> * **Methods**: specific actions that initialize and sustain my strategies and manifest my principles
+---
 
 <br></br>
 ## Generating clarity ⤵
