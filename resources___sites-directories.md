@@ -9,3 +9,4 @@ tags: resources
 - [Digital Spaces Directory](https://newpublic.org/study/3375/digital-spaces-directory)
 - [code.org short educational videos](https://code.org/educate/resources/videos)
 - [Project Trans](https://github.com/project-trans)
+- [sci-hub](https://sci-hub.se/)
