@@ -12,7 +12,8 @@
   * review with a seasoned foss contributor
   * review with a person who's never contributed / is unfamiliar with contribution processes
 * x Fix metadata YAML in [[praxis]] {cm:2025-01-03}
-* figure out why [!Important] admonition in [[praxis]] won't render properly on github. com
+* x figure out why [!Important] admonition in [[praxis]] won't render properly on github. com {cm:2025-01-07}
+  * x answer: doesn't take a custom title as per markdown specs {cm:2025-01-07}
 * Add metadata to existing pages
 * Decide what else to write in [[readme]]
 * x Add content to [[readme]] {cm:2025-01-02}
@@ -25,13 +26,13 @@
   * [[resources___online-media-etc]]
   * [[resources___organizations]]
   * [[resources___individuals]]
-* Add praxis content:
+* Add initial praxis content:
   * add bold lines to larger blocks of text
     * [x] [[praxis]] {cm:2025-01-01}
     * [ ] [Values](praxis___values.md)
     * [x] [Principles](praxis___principles.md) {cm:2025-01-06}
     * [ ] [Strategies](praxis___strategies.md)
-    * [ ] [Methods](praxis___methods.md)
+    * [x] [Methods](praxis___methods.md) {cm:2025-01-07}
 * Create mermaid chart or other visual aid to demo relationship between values, [[praxis___principles]], strategies, and methods
 * look into FOSS alternatives to github/github pages
 
