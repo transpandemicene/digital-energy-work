@@ -29,10 +29,11 @@
 * Add initial praxis content:
   * add bold lines to larger blocks of text
     * [x] [[praxis]] {cm:2025-01-01}
-    * [ ] [Values](praxis___values.md)
+    * [x] [Values](praxis___values.md) {cm:2025-01-13}
     * [x] [Principles](praxis___principles.md) {cm:2025-01-06}
     * [ ] [Strategies](praxis___strategies.md)
     * [x] [Methods](praxis___methods.md) {cm:2025-01-07}
+    * [x] [digital energy work](praxis___digital-energy-work.md) {cm:2025-01-13}
 * Create mermaid chart or other visual aid to demo relationship between values, [[praxis___principles]], strategies, and methods
 * look into FOSS alternatives to github/github pages
 
