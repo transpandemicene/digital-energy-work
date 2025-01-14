@@ -14,6 +14,9 @@ More Coming Soon
 
 ## Methodological considerations 
 Without getting unnecessarily technical, there is value in applying some structure to developing right-for-you methods. One way of adding structure is by identifying the areas of tension between your principles and your capacity for action or change, and labeling problematic programs, apps, etc that have valid reasons to create a sense of pause when searching for alternatives.
+
 I call these Tension Apps: Tension is the name applied to the experience of navigating the push of proprietary programs and the pull of Free and Open Source (FOSS) programs. Often the FOSS alternatives do not have the necessary features or ease for our particular use cases, weakening the pull of FOSS and strengthening the push of privacy- and autonomy-disrespecting programs.
+
 A sustainable digital energy work praxis must acknowledge the intensity of this experience of tension and the threat it can pose to the wide-scale adoption of privacy-preserving options. The praxis must also provide a framework for choosing the least harmful proprietary options when FOSS alternatives do not exist.
+
 Ideally, when identifying specific actionable changes (called "methods" here), the process of naming tension (categorizing accordingly) is important because it honors the nuances of our energetic realities, relationships and experiences instead of promoting an unatainable ideal that can drive people away from making changes.
