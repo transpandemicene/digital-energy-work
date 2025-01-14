@@ -39,7 +39,7 @@ Without clarity around my praxis, I became too easy to believe what any privacy,
 * So then, I had to ask myself: what are my values? And what...are my principles? And how do they differ? And how do I communicate that to people i love without sounding like a pompous nerd?
 * I haven't figured out the pompous nerd part 🤪, but gaining clarity on [[#Loose Definitions]] has helped my friends and I shift from tense misunderstanding to generative collaboration.
 
-### So, what is a [digital energy work praxis](praxis___digital-energy-work)? 
+### So, what is a [digital energy work praxis](praxis___digital-energy-work.md)? 
 
 
 
