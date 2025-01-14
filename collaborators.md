@@ -18,5 +18,5 @@ Because this project is rooted in an abolitionist praxis and seeks to build comm
 * [x] [Eli Lawliett](https://www.thegenderdoula.com/) (he/him), PhD of The Gender Doula
 * [x] naima adams (she/her), MA, PhD Candidate 
 * [x] [Tristan Katz](https://www.katz-creative.com/) (they/he), MA, CYT-500 of Katze Creative
-* [x] [Anjali Rao](https://www.yoganjali.me/), (she/her) PhD Student
-* [x] [Brennon Cooper](https://www.brennoncooperart.com/), artist 
+* [x] [Anjali Rao](https://www.yoganjali.me/) (she/her), PhD Student
+* [x] [Brennon Cooper](https://www.brennoncooperart.com/) (he/him), artist 
