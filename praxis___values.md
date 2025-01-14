@@ -7,7 +7,7 @@ Coming soon
  > [!NOTE]  
  > This is a first draft
 
- 
+
  - all digital consumers deserve to build a meaningful, supportive and connected digital life in ways that do not violate their dignity, integrity, privacy or security. therefore, we value:
    - building digital lives whose foundations receive at least the same level of care, attention, intention and standards as our in-person relationships and analog products
    - prioritizing software that allows users signifant participation in the means of production
@@ -18,6 +18,7 @@ Coming soon
    - software and hardware that does not rely on exploitative data gathering or create vendor lock-in 
    - open-source, source-available, and open-code softwares that create choice
    - developing software that can run on any hardware
+   - creating frameworks that allow communities to judge their capacity for divestment themselves without judgment from individuals or groups who carry more privilege
  - we value informed consent and the right of all digital consumers to understand the consequences of their digital actions and to reject software that violates their values without losing access to critical digital infrastructure. Therefore, we also value:
    - short and plain language privacy and security policies that are never so long or complex that they essentially deprive people of the possibiity of informed consent
    - policies that do not coerce users into nonconsensually violating their own values in order to use a digital product that is necessary to sustain their professional or social relationships

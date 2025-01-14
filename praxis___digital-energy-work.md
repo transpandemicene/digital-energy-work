@@ -55,27 +55,28 @@ Changing one's mindset around the tools of social connection and personal develo
 - self-inquiry and discernment to:
   - make values-aligned action feel personal
   - to develop priorities, areas of strength and areas of increased support
-  - to gain clarity around what is and what is not possible for your own digital life without getting stuck on others are / are not doing
+  - to gain clarity around what is and what is not possible for your own digital life without getting stuck in comparisons of what others are / are not doing
 - collaboraton, coworking and body-doubling so none of us feel alone in the process
 - community care and movement building because that's the entire point
 - story-telling and history sharing because Y'ALL!! the history of digital liberation movements is older than the internet and is actually RADICAL AF and very inspiring, and we cannot let the lessons of our predecessors fall by the wayside
 - creating opportunities for anolog and in-person connection and archiving
   
 **and centers**
-- Developing  a personal Alignment Model 
+- Developing a personal Alignment Model 
   - inspired by threat modeling, but with an equal emphasis on what we are creating for ourselves in addition to what we are protecting ourselves from
-- Divesting from Meta, Google (Alphabet), Apple, Microsoft, Amazon and other popular privacy-violating software like Spotify (I know...) to the highest extent possible
+  - allows for every person to take a sustainable approach that matches the privileges and limitations of their own circumstances
+- Divesting from Meta, Google (Alphabet), Apple, Microsoft, Amazon and other popular privacy-violating software like Spotify (I know...) to the highest extent possible for any given person or group according to their alignment model
 - Investing in and migrating to privacy-respecting free, libre and open source software (FLOSS) wherevere possible, especially when they are:
   - ad-free and telemetry-free
   - offline-first
   - set up for p2p and/or e2ee syncing 
   - well-maintained and regularly updated
   - built or maintained by marginalized developers
-- Developing best practices around software and hardware 
+- Developing best practices around software, hardware and online identities 
 - Understanding popular terms and software types, their limitations, and their appropriate contexts so that we don't fall prey to coercive marketing, e.g. 
   - end-to-end encryption, password managers, vpns, anti-virus software, etc
   - differentiating between privacy, security, anonymity and pseudonimity 
-- Identifying and implementing harm-reduction plans for proprietary apps, including 
+- Identifying and implementing harm-reduction plans for using proprietary and addictive software, including 
   - Use Without Choice (UWoC) Software
     - privacy-violating software we are forced to use for work
     - privacy-invasive apps that dominate the field to such an extent that choosing a FLOSS alternative reduces the quality of experience below what is acceptable for the use case (e.g. google maps, uber)
