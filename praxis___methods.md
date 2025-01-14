@@ -9,6 +9,7 @@ More Coming Soon
 - The self audit will clarify which actions can be taken with relative ease and quickness, and which ones will require more planning, support and investment.
 - In addition to the self-audit, a simple personalizable chart will be provided to help make choices easier from both a practical perspective and an emotional perspective. This will provide explicit connections between a strategy's methods and the principles and values an energy worker has associated with them, allowing each digital energy worker to weave their personal story into their digital abolitionism process.
 - Creating interactive visual media to support this process will be an area for [collaboration](collaborators.md)! 
+- Other intended D.E.W projects include a monthly (or weekly, if funding is received) body-doubling session in which people can come together to work on implementing their methods
 
 ## Methodological considerations 
 Without getting unnecessarily technical, there is value in applying some structure to developing right-for-you methods. One way of adding structure is by identifying the areas of tension between your principles and your capacity for action or change, and labeling problematic programs, apps, etc that have valid reasons to create a sense of pause when searching for alternatives.

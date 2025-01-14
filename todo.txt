@@ -4,7 +4,7 @@
   * make a pros/cons list of available licences (e.g. [creative commons licenses](https://en.wikipedia.org/wiki/Creative_Commons_license)
   * deternmine which licenses are in alignment
   * modify as needed
-  
+* (A) add Tension app examples (e.g. zoom/captions)
 * create contributor documentation
   * find examples I like
   * outline major sections
