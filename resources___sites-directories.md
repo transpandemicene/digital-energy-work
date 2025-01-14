@@ -2,7 +2,7 @@
 tags: resources
 ---
 # Resources: Sites & Directories
-
+- [Awesome Privacy](https://github.com/pluja/awesome-privacy)
 - [Privacy Guides](https://www.privacyguides.org/en/)
 - [Graphene OS](https://grapheneos.org/)
 - [Liberatory Technology and Digital Marronage Github](https://github.com/kenia-hale/Liberatory-Technology-Digital-Marronage) 
