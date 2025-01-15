@@ -20,3 +20,4 @@ Because this project is rooted in an abolitionist praxis and seeks to build comm
 * [x] [Tristan Katz](https://www.katz-creative.com/) (they/he), MA, CYT-500 of Katze Creative
 * [x] [Anjali Rao](https://www.yoganjali.me/) (she/her), PhD Student
 * [x] [Brennon Cooper](https://www.brennoncooperart.com/) (he/him), artist 
+* [x] [Ami King](https://www.linkedin.com/in/amiking0/) (he/him), content creator and travel vlogger
