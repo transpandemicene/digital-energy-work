@@ -1,5 +1,17 @@
 # Praxis: Values
 
+## What are values?
+
+In the context of [Digital Energy Work](praxis___digital-energy-work.md), values are the foundation of a digital energy work practice. Values, in the simplest possible definition, are that which we believe to be right, true, desirable and good. 
+
+Any [principles](praxis___principles.md), [strategies](praxis___strategies.md), and [methods](praxis___methods.md) we clarify as digital energy workers ultimately point back to our values. Our values are the reference points that allow us to determine what aligned action looks like for us and creates space for us to empathatically understand that individuals with different values will consequently approach digital energy work praxis differently.
+
+Centering values allows for any group of digital energy workers to come together in ways that both honor diversity and create shared practice. It also supports discernment, as many people who care about digital privacy, security and autonomy will make general statements about what is "best" without acknowledging that "best practices" are rarely generic and usually vary depending on particular [threat models](https://en.wikipedia.org/wiki/Threat_model) that may or may not be relevant to our own situation.
+
+Centering values allows Digital Energy Workers to acknowledge our [social locations](https://www.badoulatrainings.org/blog/the-importance-of-knowing-and-naming-your-social-location) in ways that help clarify why we may adopt, reject or modify strategies and methods differently than our friends, families and colleagues. It allows us to set boundaries and understand why the same digital choices may feel liberating for some and dangerous to others. Holding these nuances can save a lot of miscommunication between and within groups of people who might be playing around with similar strategies and methods for entirely different reasons (and for whom the consequences of the same choices may vary dramatically).
+
+Most importantly, centering values allows us to recognize when and why a strategy or method doesn't create the impact in our lives that we desire. It helps us navigate those tricky moments where we are obligated or feel strongly compelled to participate digitally in ways that don't feel good. It helps us ground when we are presented with overwhelming choice and don't know how to move forward. It saves us time by helping us prioritize and giving us confidence to say yes or no, not because others are doing so, but because we know what is right for us.
+
 ## Inspiration 
 Coming soon
 
