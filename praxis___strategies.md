@@ -1,3 +1,20 @@
-# praxis___strategies
+# Praxis: Strategies
 
-Coming Soon
+Strategies description coming soon
+
+## Habit Adjustments
+
+### Browsers
+
+### Email Aliases
+
+### Drive Storage
+
+### Social Media
+
+## Product Transitions
+
+### Social Media 
+
+### Group Conversations
+
