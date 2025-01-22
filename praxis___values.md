@@ -4,7 +4,7 @@
 
 In the context of [Digital Energy Work](praxis___digital-energy-work.md), values are the foundation of a digital energy work practice. Values, in the simplest possible definition, are that which we believe to be right, true, desirable and good. 
 
-Any [principles](praxis___principles.md), [strategies](praxis___strategies.md), and [methods](praxis___methods.md) we clarify as digital energy workers ultimately point back to our values. Our values are the reference points that allow us to determine what aligned action looks like for us and creates space for us to empathatically understand that individuals with different values will consequently approach digital energy work praxis differently.
+Any [principles](praxis___principles.md), [strategies](praxis___strategies.md), and [methods](praxis___methods.md) we clarify as digital energy workers ultimately point back to our values. Our values are the reference points that allow us to determine what aligned action looks like for us and creates space for us to empathetically understand that individuals with different values will consequently approach digital energy work praxis differently.
 
 Centering values allows for any group of digital energy workers to come together in ways that both honor diversity and create shared practice. It also supports discernment, as many people who care about digital privacy, security and autonomy will make general statements about what is "best" without acknowledging that "best practices" are rarely generic and usually vary depending on particular [threat models](https://en.wikipedia.org/wiki/Threat_model) that may or may not be relevant to our own situation.
 
@@ -12,10 +12,19 @@ Centering values allows Digital Energy Workers to acknowledge our [social locati
 
 Most importantly, centering values allows us to recognize when and why a strategy or method doesn't create the impact in our lives that we desire. It helps us navigate those tricky moments where we are obligated or feel strongly compelled to participate digitally in ways that don't feel good. It helps us ground when we are presented with overwhelming choice and don't know how to move forward. It saves us time by helping us prioritize and giving us confidence to say yes or no, not because others are doing so, but because we know what is right for us.
 
+## Values Alignment 
+It can be overwhelming to sit with the ways in which our digital lives have subtly and overtly pulled many of us way out of alignment with our values. We often know that we don't want to show up online in the ways that we are doing so, but we genuinely don't know how to show up differently. 
+
+When we don't have clarity around our values, attempting to make changes to our digital lives can become emotionally, mentally and spiritually paralyzing. Digital Energy Work consequently centers [values alignment](praxis___values___alignment.md) as the foundational energy work practice of this project.
+
+> Values Alignment is the process of deliberately aligning our methods, strategies and principles with our values.
+
+Values alignment allows each individual energy worker to start sifting through the noise and start confidently making decisions about their online life, whether or not their choices are popular in their existing social circles.
+
 ## Inspiration 
 Coming soon
 
- ## Example Values 
+ ## Example Values: Digital Energy Work Project
  > [!NOTE]  
  > This is a first draft
 
