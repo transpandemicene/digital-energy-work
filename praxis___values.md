@@ -47,3 +47,4 @@ Coming soon
    - equitable exchange so that aligned developers and creators are well-compensated for their contributions while software remains financially accessible to impoverished people
 
 ## Example Anti-values
+Coming soon
