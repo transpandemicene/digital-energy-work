@@ -59,14 +59,14 @@ Changing one's mindset around the tools of social connection and personal develo
 - collaboraton, coworking and body-doubling so none of us feel alone in the process
 - community care and movement building because that's the entire point
 - story-telling and history sharing because Y'ALL!! the history of digital liberation movements is older than the internet and is actually RADICAL AF and very inspiring, and we cannot let the lessons of our predecessors fall by the wayside
-- creating opportunities for anolog and in-person connection and archiving
+- creating opportunities for analog and in-person connection and archiving
   
 **and centers**
 - Developing a personal Alignment Model 
   - inspired by threat modeling, but with an equal emphasis on what we are creating for ourselves in addition to what we are protecting ourselves from
   - allows for every person to take a sustainable approach that matches the privileges and limitations of their own circumstances
 - Divesting from Meta, Google (Alphabet), Apple, Microsoft, Amazon and other popular privacy-violating software like Spotify (I know...) to the highest extent possible for any given person or group according to their alignment model
-- Investing in and migrating to privacy-respecting free, libre and open source software (FLOSS) wherevere possible, especially when they are:
+- Investing in and migrating to privacy-respecting free, libre and open source software (FLOSS) wherever possible, especially when they are:
   - ad-free and telemetry-free
   - offline-first
   - set up for p2p and/or e2ee syncing 
