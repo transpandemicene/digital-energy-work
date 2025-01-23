@@ -4,7 +4,7 @@
 > this project is incomplete and ongoing; some links currently exist as placeholders 😸
 
 ## what is digital energy work? 
-> Read more [here](praxis___digital-energy-work.md)
+> Read more [here](praxis___digital-energy-work.md) and eventually on [blueksy](https://bsky.app/profile/transgressive-med.bsky.social) and [mastodon](https://tech.lgbt/@transpandemicene).
 - [digital energy work(https://www.transgressivemedicine.co/digital-energy-work)], a project rooted in [digital-abolitionist](#) [praxis](praxis.md); it is an extension of [_transpandemicene (coming soon)_](#).
 - it includes some lofty objectives that boil down to: ⤵
 	- **building community around shared abolitionist values and principles** for people who intuitively understand the destructive impact that digital imperialism will continue to have on the social fabric of violently targeted communities (e.g. disabled people, queer and trans people, racialized people, genocide survivors & refugees, etc)
