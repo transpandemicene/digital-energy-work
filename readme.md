@@ -1,9 +1,11 @@
 # Digital Energy Work
 
 > [!NOTE]  
-> this project is incomplete and ongoing; some links currently exist as placeholders 😸
+> This is a demo repo for the Digital Energy Work project. This project is incomplete and ongoing; some links currently exist as placeholders 😸
 
 ## what is digital energy work? 
+> [!IMPORTANT]  
+> This repo is in the process of migrating to an open source platform! If updates are lagging here, check [gitlab](https://gitlab.com/transpandemicene/digital-energy-work) until all the mirrors are properly set up.  
 > Read more [here](praxis___digital-energy-work.md) and eventually on [blueksy](https://bsky.app/profile/transgressive-med.bsky.social) and [mastodon](https://tech.lgbt/@transpandemicene).
 - [digital energy work(https://www.transgressivemedicine.co/digital-energy-work)], a project rooted in [digital-abolitionist](#) [praxis](praxis.md); it is an extension of [_transpandemicene (coming soon)_](#).
 - it includes some lofty objectives that boil down to: ⤵
