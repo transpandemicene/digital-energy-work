@@ -50,7 +50,7 @@ Digital Energy Work particularly recognizes how spiritually and energetically ta
 
 Changing one's mindset around the tools of social connection and personal development that many of us have used for years (and become actually addicted to) can spark **fear, confusion, insecurity, defensiveness, shame, guilt, exhaustion** and other strong emotions that can activate trauma responses. It's therefore essential that we engage in these processes in ways that also activate our **joy, connection, inspiration, excitement, creativity, curiosity, care, confidence, affection and cultural wisdom**.  
 
-**The D.E.W praxis therefore revolves around **
+**The D.E.W praxis therefore revolves around**
 - providing supportive [energy work](#energy-work) to navigate the big feels
 - self-inquiry and discernment to:
   - make values-aligned action feel personal
